@@ -1,0 +1,3 @@
+8b87fa773de809aad09a42d88abcd744acc5c922bb76eca618addb163d8a0a83  ./OrbitTerm_0.1.48_aarch64.dmg
+a2d13b5e7042b023cae08a0b834e9cbdea2e87c2738d175b34c9628f22b68e8d  ./OrbitTerm_0.1.48_x64-setup.exe
+26c1538975c2baf76d990d16681a6569342478f42a36269e50bb52a6f41b79de  ./OrbitTerm_0.1.48_x64_en-US.msi
